@@ -6,13 +6,13 @@ Link for the demonstration and Rules - https://bigbangtheory.fandom.com/wiki/Roc
 
 Rules of the game are - 
 
-Scissors cuts Paper
-Paper covers Rock
-Rock crushes Lizard
-Lizard poisons Spock
-Spock smashes Scissors
-Scissors decapitates Lizard
-Lizard eats Paper
-Paper disproves Spock
-Spock vaporizes Rock
-(and as it always has) Rock crushes Scissors
+Scissors cuts Paper,
+Paper covers Rock,
+Rock crushes Lizard,
+Lizard poisons Spock,
+Spock smashes Scissors,
+Scissors decapitates Lizard,
+Lizard eats Paper,
+Paper disproves Spock,
+Spock vaporizes Rock,
+(and as it always has) ,Rock crushes Scissors
